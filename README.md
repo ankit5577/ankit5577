@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Microsoft office 365 does work on leap year**
 
-- - **2021 Graduate, learning and building applications 🧑🏽‍💻**
+- **2021 Graduate, learning and building applications 🧑🏽‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
