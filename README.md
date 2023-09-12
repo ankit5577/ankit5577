@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kaushal</h1>
-<h3 align="center">Full Stack Web Developer | Python | AWS | Solidity | Web3.0</h3>
+<h3 align="center">Full Stack Web3 Developer | Python | AWS | Solidity</h3>
 
 <p align="left"> <a href="https://twitter.com/ankit5577_dev" target="blank"><img src="https://img.shields.io/twitter/follow/ankit5577_dev?logo=twitter&style=for-the-badge" alt="ankit5577_dev" /></a> </p>
 
