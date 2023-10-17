@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ankit5577.dev@gmail.com**
 
-- 📄 Know about my experiences [Resume / CV](https://docs.google.com/document/d/1XlslPugi9F6YJZWmSSP2rTHswX4VV8MrHP7yZd2bzwc/edit?usp=sharing)
+- 📄 Know about my experiences [Resume / CV](https://www.aiboost.in/ankit)
 
 - ⚡ Fun fact **Microsoft office 365 does work on leap year**
 
