@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web3 Developer | AWS Certified Solutions Architect | Solidity | Python</h3>
 
 <p align="left"> <a href="https://twitter.com/ankit5577_dev" target="blank"><img src="https://img.shields.io/twitter/follow/ankit5577_dev?logo=twitter&style=for-the-badge" alt="ankit5577_dev" /></a> </p>
-<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect Associate Badge" width="250" />
+<img align="right" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect Associate Badge" width="250"/>
 
 - 🔭 I’m currently working on **Web3.0, Full Stack Development**
 
